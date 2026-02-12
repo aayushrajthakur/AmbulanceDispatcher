@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ambulance Dispatcher</string>
+
+    <string-array name="severity_levels">
+        <item>1 - Minor</item>
+        <item>2 - Mild</item>
+        <item>3 - Moderate</item>
+        <item>4 - Serious</item>
+        <item>5 - Critical</item>
+    </string-array>
+
+    <string-array name="patient_problems">
+        <item>Chest Pain</item>
+        <item>Breathing Difficulty</item>
+        <item>Severe Bleeding</item>
+        <item>Seizure</item>
+        <item>Unconsciousness</item>
+        <item>High Fever</item>
+        <item>Stroke Symptoms</item>
+        <item>Fracture</item>
+        <item>Burns</item>
+        <item>Severe Abdominal Pain</item>
+        <item>Head Injury</item>
+        <item>Dizziness / Fainting</item>
+        <item>Allergic Reaction</item>
+        <item>Poisoning / Overdose</item>
+        <item>Cardiac Arrest</item>
+    </string-array>
+
+</resources>
